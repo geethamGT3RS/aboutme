@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @geethamGT3RS
-- 👀 I’m interested in creating modest codes
-- 🌱 I’m currently learning machine learning and network communications.
-- 💞️ I’m looking to collaborate on something
 
 
 <!---
